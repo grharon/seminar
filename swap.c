@@ -9,6 +9,7 @@ int main(void)
     printf("y is %i\n", y);
     
     // swapping in here
+    // and in here
     int temp = x;
     x = y;
     y = temp;
